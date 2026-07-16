@@ -8,7 +8,7 @@
 
 ## 💫 About me
 
-✨ Creating bugs since 2021<br>📚 I'm currently learning Unity<br>🎯 Goals: Become a game developer<br>🎲 Fun fact: I love Meow  :3
+✨ Creating bugs since 2021<br>📚 I'm currently learning Unity<br>🎯 Goals: Become a game developer<br>🎲 Fun fact: I love MeowMeow  :3
 
 ### Languages
 
@@ -35,22 +35,22 @@
 ## 📊 My Github stats
 <div align="center">
   <a href="https://github.com/tranvlnh26?tab=repositories">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvlnh26&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvlnh&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" alt="Top Languages" />
   </a>
   
-  <a href="https://github.com/tranvlnh26">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranvlnh26&theme=tokyonight" alt="Profile Details" />
+  <a href="https://github.com/tranvlnh">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tranvlnh&theme=tokyonight" alt="Profile Details" />
   </a>
 </div>
 
 #
 
-<img src="https://raw.githubusercontent.com/tranvlnh26/tranvlnh26/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tranvlnh/tranvlnh/output/snake.svg" alt="Snake animation" />
 
 #
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tranvlnh26.tranvlnh26&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tranvlnh.github&"  />
 </div>
 
 
