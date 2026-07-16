@@ -34,7 +34,7 @@
 
 ## 📊 My Github stats
 <div align="center">
-  <a href="https://github.com/tranvlnh26?tab=repositories">
+  <a href="https://github.com/tranvlnh?tab=repositories">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tranvlnh&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" alt="Top Languages" />
   </a>
   
