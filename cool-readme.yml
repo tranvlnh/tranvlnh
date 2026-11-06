@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: tranvlnh
+style: oled
+color: amber
+matrix: true
+transparent: false
+include:
+  private: true
+  orgs: true
