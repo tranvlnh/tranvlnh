@@ -9,7 +9,7 @@ include:
   orgs: true            # repos of organizations you belong to
 theme:
   background: solid   # or solid
-  border: true
+  border: false
   animations: true
 summary:
   title: null          # small, on the header line
