@@ -8,12 +8,12 @@ include:
   private: true
   orgs: true            # repos of organizations you belong to
 theme:
-  background: transparent   # or solid
-  border: false
+  background: solid   # or solid
+  border: true
   animations: true
 summary:
   title: null          # small, on the header line
-  ring: percent         # or github: the GitHub logo in the ring, the percentage in the title
+  ring: github         # or github: the GitHub logo in the ring, the percentage in the title
 languages:
   title: Most used languages   # null hides it
   count: 6
