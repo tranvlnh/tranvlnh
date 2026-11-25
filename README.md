@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tranvlnh.26227@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tranvlnh.26227%40gmail.com-informational?style=flat-square&logo=gmail"></a>
+  <a href="mailto:me@tranvlnh.id.vn"><img alt="Email" src="https://img.shields.io/badge/Email-me%40tranvlnh.id.vn-informational?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/tranvlnh"><img alt="Followers" src="https://img.shields.io/github/followers/tranvlnh?style=flat-square&label=Follow"></a>
 </p>
 
